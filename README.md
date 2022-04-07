@@ -13,6 +13,11 @@ SPPath = 'G:\SP'
 SPProductKey = 'XXXXX-XXXXX-XXXXX-XXXXX-XXXXX' 
 ```
 
+### DSC Resources Used  
+- SharePointDsc
+- xWebAdministration
+- NetworkingDsc
+
 ### Service Application Provisioned  
 - App Management Service
 - Business Data Connectivity Service
